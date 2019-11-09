@@ -2,6 +2,6 @@
 
 require_once 'veiculo.class.php';
 $veiculos = $_POST['veiculo'];
-print_r($veiculos);
+print "seu carro é do ano de {$veiculos[ano]}";
 
 ?>

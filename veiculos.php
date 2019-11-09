@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-    <form method="POST" id="fDados" action="localhost/cad_veiculo.php">
+    <form method="POST" id="fDados" action="veiculos_requisicao.php">
         <h1>Formulário</h1>
         <fieldset id="usuario"> <legend>Cadastro de Veículos</legend>
             <div> 
